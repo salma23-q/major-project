@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GuardLens: Dynamic Fake Profile Detector",
+  "description": "An advanced social media profile analysis tool using simulated XGBoost classification and SHAP (SHapley Additive exPlanations) to detect and explain potential fake accounts with AI-driven insights.",
+  "requestFramePermissions": []
+}
